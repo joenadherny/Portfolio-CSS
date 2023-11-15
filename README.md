@@ -12,3 +12,5 @@ WHEN I click on the images of the applications
 THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
+
+I struggled a lot with this assingment in making the images look nice. I still have not linked my projects as we are not done with the final one. I am proud of how it turned out and think that it could use some work but meets the requirements.
